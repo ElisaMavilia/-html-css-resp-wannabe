@@ -168,10 +168,6 @@ img {
         justify-content: center;
     }
     
-    .lessons{
-        width: 100%;
-    }
-
     .lessons .col{
         width: 100%;
     }
@@ -182,21 +178,26 @@ img {
 
     img{
         width: 100%;
+        padding-bottom: 1.5rem;
     }
 
     h1{
         font-size: 2.8rem;
-        text-align: center;
     }
 
     h2{
         font-size: 2.2rem;
-        text-align: center;
     }
     
     h3{
         font-size: 1.8rem;
         text-align: center;
+        padding-top: 0.8rempx;
+    }
+
+    p{
+        padding-top: 0.8rem;
+        padding-bottom: 2.5rem;
     }
 }
 
